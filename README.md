@@ -21,7 +21,7 @@ Após o processamento, os resultados obtidos mostraram um ranking detalhado das 
 
 ---
 
-### Tecnologias Utilizadas
+### Tecnologias Utilizadas no Bootcamp
 
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
