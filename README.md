@@ -1,4 +1,4 @@
-# Bootcamp - Alex The Analyst
+# [Bootcamp - Alex The Analyst](https://www.youtube.com/watch?v=wQQR60KtnFY&t=13892s)
 
 ## Parte 1: MySQL
 
@@ -30,5 +30,3 @@ Esses arquivos detalham informações importantes como as empresas com mais demi
 ### Tecnologias Utilizadas no Bootcamp
 
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-
-- ### [Link para o Bootcamp](https://www.youtube.com/watch?v=wQQR60KtnFY&t=13892s)
