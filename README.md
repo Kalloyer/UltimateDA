@@ -73,5 +73,4 @@ Nesta etapa do bootcamp, utilizamos o Tableau para explorar e criar visualiza√ß√
 
 ### Tecnologias Utilizadas no Bootcamp  
 
-<img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
-<img alt="Excel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg">
+<img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg"> | <img alt="Excel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg">
