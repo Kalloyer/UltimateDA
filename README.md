@@ -1,59 +1,129 @@
 # [Bootcamp - Alex The Analyst](https://www.youtube.com/watch?v=wQQR60KtnFY&t=13892s)
 
-## Parte 1: MySQL
+## Part 1: MySQL
 
-### Projeto: Análise de Demissões - Arquivo `layoffs.csv`
+### Project: Layoffs Analysis - File `layoffs.csv`
 
-Neste projeto, realizamos uma análise de dados de demissões com base no arquivo `layoffs.csv`. Durante a aula, os seguintes passos foram executados:
-- #### Limpeza de Dados 
-- #### Remoção de Dados Duplicados  
-- #### Tratamento de Valores Nulos e Vazios 
-- #### Padronização de Dados 
-- #### Análise e Ranking 
-- #### Agrupamento de Dados
+In this project, we analyzed layoffs data based on the `layoffs.csv` file. During the class, the following steps were executed:
 
----
-
-### Resultados
-
-Os seguintes arquivos foram gerados a partir da análise:
-
-- **TOP 5 demissões empresas:** `layoffs_top5_laid_off_companies`
-- **TOP 3 fundos levantados pelas empresas e suas indústrias:** `layoffs_top3_refunds_raised_industry_and_company`
-- **Total de demissões por ano e por mês:** `layoffs_total_month_and_year`
-- **Demissões por localidade:** `layoffs_country_location`
-- **Total de empresas que mais demitiram em cada trimestre:** `layoffs_laid_off_company_quarter`
-
-Além disso:
-
-- **Arquivo base:** `layoffs`
-- **Arquivo limpo:** `layoffs_data_cleaned`
-
-Esses arquivos detalham informações importantes, como as empresas com mais demissões, fundos levantados, demissões por localização e tendências trimestrais.
+- #### Data Cleaning
+- #### Removal of Duplicate Data
+- #### Handling Null and Empty Values
+- #### Data Standardization
+- #### Analysis and Ranking
+- #### Data Grouping
 
 ---
 
-## Parte 2: Excel
+### Results
 
-Neste projeto, utilizamos diversos arquivos para explorar as funcionalidades do Excel e algumas de suas possibilidades, incluindo:
+The following files were generated from the analysis:
 
-- **Fórmulas do Excel:**  
-  - *Substitute*, *TRIM*, *Concatenate*, *IF*, *Network Day*  
-  Arquivo: `Formula Excel Template`
-- **Funcionalidade de XLOOKUP:**  
-  - *Multiple Rows*, *Exact Match*, *Search Order*, *VLOOKUP*  
-  Arquivo: `XLOOKUP Excel Tutorial File`
-- **Formatação Condicional:**  
-  Arquivo: `Conditional Formatting Excel Tutorial File`
-- **Criação de Gráficos:**  
-  Arquivo: `Excel Charts Tutorial File`
-- **Limpeza de Dados:**  
-  Arquivo: `Data Cleaning Excel Tutorial`
-- **Criação de um Dashboard:**  
-  Arquivo: `Excel Project Dataset`
+- **TOP 5 Companies with Most Layoffs:** `layoffs_top5_laid_off_companies`
+- **TOP 3 Funds Raised by Companies and Their Industries:** `layoffs_top3_refunds_raised_industry_and_company`
+- **Total Layoffs by Year and Month:** `layoffs_total_month_and_year`
+- **Layoffs by Location:** `layoffs_country_location`
+- **Companies with Most Layoffs per Quarter:** `layoffs_laid_off_company_quarter`
+
+Additionally:
+
+- **Base File:** `layoffs`
+- **Cleaned File:** `layoffs_data_cleaned`
+
+These files detail important information, such as companies with the most layoffs, funds raised, layoffs by location, and quarterly trends.
 
 ---
 
-### Tecnologias Utilizadas no Bootcamp
+## Part 2: Excel
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,excel&theme=dark)](https://skillicons.dev)
+In this project, we used various files to explore Excel functionalities and some of its possibilities, including:
+
+- **Excel Formulas:**
+  - _Substitute_, _TRIM_, _Concatenate_, _IF_, _Network Day_  
+    File: `Formula Excel Template`
+- **XLOOKUP Functionality:**
+  - _Multiple Rows_, _Exact Match_, _Search Order_, _VLOOKUP_  
+    File: `XLOOKUP Excel Tutorial File`
+- **Conditional Formatting:**  
+  File: `Conditional Formatting Excel Tutorial File`
+- **Chart Creation:**  
+  File: `Excel Charts Tutorial File`
+- **Data Cleaning:**  
+  File: `Data Cleaning Excel Tutorial`
+- **Dashboard Creation:**  
+  File: `Excel Project Dataset`
+
+---
+
+## Part 3: Tableau
+
+In this bootcamp stage, we used Tableau to explore and create interactive visualizations, including:
+
+- **Files for Analysis and Tool Understanding:**
+  - `vgsales.csv`
+  - `directory.csv`
+- **First Dashboard Created:**
+  - `Dashboard.twb`
+- **Using Joins:**
+  - File: `Tableau Joins File.xlsx`
+- **Final Project with Airbnb Dataset:**
+  - Dataset: `airbnb_data.xlsx`
+  - Complete Dashboard with Multiple Visualizations: `Dash_Airbnb.twb`
+
+---
+
+## Part 4: Power BI
+
+In this section, we explored Power BI and its tools, including:
+
+- **Power Query:**
+  - File: `Apocolypse_Cleaned_Power_Query_BI.pbix`
+- **Conditional Formatting:**
+  - File: `Apocolypse_Conditional_Formatting_BI.pbix`
+- **DAX and Relationships:**
+  - File: `Apocolypse_DAX_BI.pbix`
+- **Final Project Using All Features:**
+  - File: `Final_Project.pbix`
+
+---
+
+## Part 5: Python
+
+In this section, we covered Python fundamentals and completed two projects:
+
+- **Fundamentals:**
+  - _If, Else, While, Loops, Operators, Data Types, Variables_
+- **Pandas Library:**
+  - File: `Pandas.ipynb`
+- **Projects:**
+  - **Automatic File Classifier:** Moves files to their respective folders (e.g., PDF, JPG).  
+    File: `classificador_automatico_de_arquivos.ipynb`
+  - **BMI Calculator:** Calculates Body Mass Index.  
+    File: `Calculadora_IMC.ipynb`
+
+---
+
+## Part 6: Azure
+
+In this section, we explored Azure services, including:
+
+- **Data Lake:** Creation, configuration, and operation.
+- **SQL Database:** Creation, configuration, and operation using Azure Data Studio.
+- **Data Factory:** Creation, configuration, and linking with SQL Database.
+
+---
+
+## Part 7: AWS
+
+In this section, we explored AWS services, including:
+
+- **S3:** Creation, configuration, and operation.
+- **Athena:** Creation, configuration, and operation.
+- **AWS Glue:** Creation, configuration, and operation.
+- **IAM:** Creation, configuration, and operation.
+
+---
+
+### Technologies Used in the Bootcamp
+
+<img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg"> | <img alt="Excel" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"> | <img alt="Tableau" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tableau.svg"> | <img alt="Power BI" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power-BI.svg"> | <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"> | <img alt="Azure" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg"> | <img alt="AWS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
